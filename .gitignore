@@ -1,0 +1,49 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Кеші IDE
+out/
+.cache/
+.idea_modules/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Node (якщо використовується)
+node_modules/
+dist/
+
+# OS специфічне
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Віртуальні середовища (наприклад, Python)
+venv/
+env/
+
+# Файли для тимчасових збережень/бекапів
+*.swp
+*~
+*.tmp
+
+# Записані залежності IDE
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/**/usage.statistics.xml
+.idea/**/shelf/
+
+# Run configurations
+.idea/runConfigurations/
+
+# Ключі, паролі тощо (якщо раптом створювали)
+*.keystore
